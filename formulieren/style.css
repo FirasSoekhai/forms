@@ -1,0 +1,21 @@
+label:hover { 
+    background: pink;
+    padding: 4px;
+    border-radius: 50px;
+    transition: 0.7s ease-in-out;
+}
+legend:hover { 
+    background: pink;
+    padding: 4px;
+    border-radius: 50px;
+    transition: 0.7s ease-in-out;
+}
+#validatie img {
+    height: 1em;
+    width: auto;
+    border: 0;
+    margin: 0 .3em;
+}
+.boomer {
+    padding: 4px;
+}
